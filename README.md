@@ -1,3 +1,4 @@
 # JDBC
-This has two branches one has core jbdc
+This has three branches one has core jbdc
 second one has spring jdbc
+third has spring orm
